@@ -1,1 +1,142 @@
 maestria_venv/
+
+# Excluir imágenes
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.pyd
+*.pyo
+*.pdb
+
+# Virtual environment
+env/
+venv/
+ENV/
+VENV/
+.Python
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.mocha.js
+*.spec.js
+*.config.js
+.cache/
+.pytest_cache/
+.dbg/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Enviornment variables
+.env
+.envrc
+.pyenvrc
+.venvrc
+.env/
+
+# General files
+*.log
+*.out
+*.txt
+
+# Excluir archivos de Office, Google Office, Mac Office y similares
+*.doc
+*.docx
+*.odt
+*.pdf
+*.xls
+*.xlsx
+*.ods
+*.ppt
+*.pptx
+*.key
+*.numbers
+*.pages
+
+# Archivos CSV y similares
+*.csv
+*.tsv
+
+# Archivos de Google Drive
+*.gdoc
+*.gsheet
+*.gslides
+
+# Archivos de Mac Office
+*.key
+*.numbers
+*.pages
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
